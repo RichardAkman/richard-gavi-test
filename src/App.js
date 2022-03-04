@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './VELO-COVER-SALE-3.png';
 import './App.css';
 
 function App() {
